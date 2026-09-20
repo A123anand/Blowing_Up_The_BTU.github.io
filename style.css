@@ -33,3 +33,8 @@ h1 {
 .corner-menu:hover .menu-list {
   display: block; /* Shows menu on hover for a simple pure-CSS approach */
 }
+#footnote {
+  font-size: 0.8em;
+  color: #10003b;
+  margin-top: 20px;
+}
